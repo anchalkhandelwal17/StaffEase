@@ -16,13 +16,13 @@ CREATE TABLE `employee` (
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
 
 --
--- Data for table `employee`
+-- Data for table `employee`user_id
 --
 
 INSERT INTO `employee` VALUES 
-	(1,'Leslie','Andrews','leslie@luv2code.com'),
-	(2,'Emma','Baumgarten','emma@luv2code.com'),
-	(3,'Avani','Gupta','avani@luv2code.com'),
-	(4,'Yuri','Petrov','yuri@luv2code.com'),
-	(5,'Juan','Vega','juan@luv2code.com');
+	(1,'Joe','Smith','joe@abc.com'),
+	(2,'Steve','Henderson','steve@xyz.com'),
+	(3,'Michael','Watson','michael@gmail.com'),
+	(4,'Bill','Alberto','bill@gmail.com'),
+	(5,'Daniel','Xavier','daniel@gmailemployee.com');
 
