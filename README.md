@@ -8,6 +8,5 @@
   <li>Add an employee</li>
   <li>Update an employee</li>
   <li>Delete an employee</li>
-  <li>Search employee</li>
   <li>Employees count retrieval</li>
 </ul>
